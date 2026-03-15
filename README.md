@@ -4,7 +4,7 @@ This repository contains beginner web development projects built while learning 
 
 ## Projects
 
-### 1. Responsive Landing Page
+### 1. Responsive Landing Page (Complete)
 Built with HTML and CSS  
 Features:
 - Responsive layout
@@ -12,14 +12,14 @@ Features:
 - Hero section
 - Services grid
 
-### 2. JavaScript To-Do App
+### 2. JavaScript To-Do App (In-progress)
 Built with JavaScript  
 Features:
 - DOM manipulation
 - Task management
 - Local storage
 
-### 3. Simple Database Web App
+### 3. Simple Database Web App (In-progress)
 Built with HTML, CSS, JavaScript and SQL  
 Features:
 - Basic CRUD operations
