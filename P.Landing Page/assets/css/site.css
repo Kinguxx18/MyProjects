@@ -1,0 +1,157 @@
+@import url(/assets/css/reset.css);
+@import url(/assets/css/grid.css);
+
+
+body {
+   font-family: Arial, Helvetica, sans-serif;
+   background-color: #f5f5f5;
+   color: #333;
+   min-height: 100vh;
+   display: flex;
+   flex-direction: column;
+}
+
+html{
+    font-size: 10px;
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    float: left;
+    height: 100%;
+    overflow: auto;
+    padding: 2rem;
+}
+
+nav{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:20px;
+    background:#333;
+    color:white;
+}
+
+nav ul{
+    display:flex;
+    list-style:none;
+    gap:20px;
+}
+
+h1 {
+    font-size: 4rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+h2 {
+    font-size: 3.3rem;
+    font-weight: 10px;
+    margin-bottom: 0.8rem;
+}
+
+h3 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+
+p {
+    font-size: 1.7rem;
+    line-height: 1.5;
+    margin-bottom: 1.5rem;
+}
+
+a{
+    font-size: 20px;
+    padding: 10px 15px;
+    text-decoration: none;
+}
+
+a.links {
+    color: #667eea;
+}
+
+
+ul li {
+    color: #f5f5f5;
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
+}
+
+.hero {
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    color: white;
+    text-align: center;
+    padding: 20px 20px;
+}
+
+.hero-button{
+    margin-top: 20px;
+    background:#2563eb;
+    color: #333;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    border: none;
+}
+
+.hero-button:hover {
+    opacity: 0.9;
+    transform: scale(1.05);
+    transition: 0.2s;
+}
+
+.services-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.services{
+    padding: 40px;
+    text-align: center;
+}
+
+.service {
+    margin: 20px;
+    background-color: #fff;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 2rem;
+}
+
+.about {
+    text-align: center;
+    background-color: #fff;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 2rem;
+}
+
+footer{
+    text-align:center;
+    padding:20px;
+    background:#333;
+    color:white;
+}
+
+@media (max-width: 768px) {
+    .services {
+        padding: 20px;
+    }
+    
+    .service {
+        margin: 10px;
+        padding: 1rem;
+    }
+}
