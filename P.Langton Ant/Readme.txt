@@ -1,0 +1,13 @@
+🐜 Hormiga de Langton (Langton’s Ant)
+
+Implementación de la simulación clásica “Hormiga de Langton”, un sistema basado en autómatas celulares que demuestra comportamientos emergentes a partir de reglas simples.
+
+El proyecto consiste en una cuadrícula donde una “hormiga” se mueve siguiendo reglas específicas: gira dependiendo del color de la celda actual y cambia su estado, generando patrones complejos a lo largo del tiempo.
+
+Implementación de lógica de movimiento basada en reglas
+Manipulación de estructuras de datos para representar la cuadrícula
+Visualización del comportamiento dinámico en tiempo real
+Enfoque en lógica algorítmica y simulación
+
+Este proyecto me permitió fortalecer mis habilidades en programación, pensamiento lógico y resolución de problemas.
+Es necesario Instalar Pygame para poder ejecutar el código, se activará automaticamente
