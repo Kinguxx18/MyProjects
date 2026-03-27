@@ -16,7 +16,7 @@ Modern and responsive web page focused on user experience and clean design.
 
 ---
 
-### 🌀 Fractals Project (Python)
+### 🌀 Fractals Project (Python - Pygame)
 
 Implementation of fractal patterns using Python, focused on mathematical visualization and algorithmic logic.
 
