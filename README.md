@@ -12,6 +12,7 @@ A personal web project designed to showcase my portfolio, skills, and developmen
 
 * Built with HTML, CSS, and JavaScript
 * Responsive design for multiple devices
+* Continuous improvements in UI/UX and functionality
 
 ---
 
@@ -25,7 +26,18 @@ Modern and responsive web page focused on user experience and clean design.
 
 ---
 
-### 🌀 Fractals Project (Python - Pygame)
+### 🔐 Cryptography & Encryption Project (Python)
+
+Implementation of basic cryptographic techniques using Python, focused on data security and encryption logic.
+
+* Encryption and decryption algorithms
+* String and data manipulation
+* Understanding of basic cybersecurity principles
+* Strengthening logical and algorithmic thinking
+
+---
+
+### 🌀 Fractals Project (Python)
 
 Implementation of fractal patterns using Python, focused on mathematical visualization and algorithmic logic.
 
@@ -45,13 +57,23 @@ Simple 2D game developed using Pygame where the player controls a spaceship and 
 
 ---
 
+### 🎯 Hangman Game (Python)
+
+Classic Hangman game built in Python, focusing on logic and user interaction.
+
+* String manipulation
+* Conditional logic
+* Interactive console-based gameplay
+
+---
+
 ## 🧠 Skills Demonstrated
 
 * Web Development (HTML, CSS, JavaScript)
-* Programming Logic (Python)
+* Programming Logic (Python, C++)
 * Problem Solving
 * Algorithmic Thinking
-* Responsive Design
+* Basic Cybersecurity Concepts
 
 ---
 
