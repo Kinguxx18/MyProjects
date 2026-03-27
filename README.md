@@ -6,6 +6,15 @@ This repository contains a collection of projects developed as part of my learni
 
 ## 📌 Projects
 
+### 🌐 Personal Website *(In Progress)*
+
+A personal web project designed to showcase my portfolio, skills, and development journey.
+
+* Built with HTML, CSS, and JavaScript
+* Responsive design for multiple devices
+
+---
+
 ### 🌐 Landing Page *(In Progress)*
 
 Modern and responsive web page focused on user experience and clean design.
@@ -36,16 +45,30 @@ Simple 2D game developed using Pygame where the player controls a spaceship and 
 
 ---
 
-### 🎯 Hangman Game (Python)
+## 🧠 Skills Demonstrated
 
-Classic Hangman game built in Python, focusing on logic and user interaction.
-
-* String manipulation
-* Conditional logic
-* Interactive console-based gameplay
+* Web Development (HTML, CSS, JavaScript)
+* Programming Logic (Python)
+* Problem Solving
+* Algorithmic Thinking
+* Responsive Design
 
 ---
 
-## 🧠 About Me
+## 📚 Learning Journey
 
-I am an aspiring Full Stack Web Developer with a strong interest in continuous learning and problem-solving. This repository showcases my growth in programming, web development, and software fundamentals.
+I have been learning programming and web development for over a year through self-study and specialized courses. I am continuously improving my skills and building projects to gain real-world experience.
+
+---
+
+## 👨‍💻 About Me
+
+I am an aspiring Full Stack Web Developer with a strong foundation in networking and cybersecurity. I am passionate about technology, continuous learning, and building efficient solutions.
+
+---
+
+## 📫 Contact
+
+* Email: [jeramy9876@gmail.com](mailto:jeramy9876@gmail.com)
+* GitHub: https://github.com/Kinguxx18/
+* LinkedIn: https://www.linkedin.com/in/jeramy-mairena19/
