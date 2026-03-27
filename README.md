@@ -12,19 +12,8 @@ Features:
 - Hero section
 - Services grid
 
-### 2. JavaScript To-Do App (In-progress)
-Built with JavaScript  
-Features:
-- DOM manipulation
-- Task management
-- Local storage
-
-### 3. Simple Database Web App (In-progress)
-Built with HTML, CSS, JavaScript and SQL  
-Features:
-- Basic CRUD operations
-- Database connection
-- Simple UI
+### 2. Langton Ant
+Built with Python - Pygame
 
 ## Technologies Used
 - HTML
